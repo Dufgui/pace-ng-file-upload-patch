@@ -1,9 +1,8 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "name": "pace-ng-file-upload-patch",
   "main": "pace-ng-file-upload-patch.js",
   "dependencies": {
-    "ng-file-upload": "^12.0.4",
     "pace": "^1.0.2"
   },
   "authors": [
