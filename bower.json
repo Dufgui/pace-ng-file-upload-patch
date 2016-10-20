@@ -1,6 +1,6 @@
 {
   "version": "0.0.2",
-  "name": "pace-ng-file-upload-patch",
+  "name": "pace-ng-file-upload-inlinepatch",
   "main": "pace-ng-file-upload-patch.js",
   "dependencies": {
     "pace": "^1.0.2"
